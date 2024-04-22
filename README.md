@@ -1,4 +1,4 @@
-# Welcome to Form Movie App
+# Welcome to Movie App
 
 ## Technologies Used
 - HTML, CSS & JAVASCRIPT 
